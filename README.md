@@ -3,8 +3,8 @@
 - 👨‍💻 Full Stack
 - 📚 IoT
 
-![enejota98's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enejota98&theme=dracula&hide_border=false&layout=compact)
-![enejota98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enejota98&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![enejota98's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enejota98&theme=dracula&hide_border=false)
+![enejota98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enejota98&theme=dracula&show_icons=true&hide_border=false)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
