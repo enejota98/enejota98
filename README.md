@@ -2,11 +2,10 @@
 - 👨‍🎓 Computer engineer
 - 👨‍💻 Full Stack
 - 📚 IoT
-<div align="center">
-  <a href="https://github.com/enejota98">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=enejota98&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enejota98&layout=compact&langs_count=7&theme=blue-green&count_private=true"/>
-</div>
+
+![enejota98's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enejota98&theme=dracula&hide_border=false)
+![enejota98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enejota98&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
