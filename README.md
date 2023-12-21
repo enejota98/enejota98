@@ -4,7 +4,7 @@
 - 📚 IoT
 
 <div align="center">
-  <a href="https://github.com/georgetonjr">
+  <a href="https://github.com/enejota98">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=enejota98&theme=blue-green&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enejota98&theme=blue-green&show_icons=true&layout=compact&count_private=true"/>
 </div>
