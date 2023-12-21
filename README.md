@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/georgetonjr">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=enejota98&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enejota98&theme=dracula&show_icons=true&layout=compact"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=enejota98&theme=blue-green&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enejota98&theme=blue-green&show_icons=true&layout=compact&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
