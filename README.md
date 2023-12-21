@@ -2,10 +2,10 @@
 - 👨‍🎓 Computer engineer
 - 👨‍💻 Full Stack
 - 📚 IoT
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/enejota98/github-readme-stats)
 <div align="center">
   <a href="https://github.com/enejota98">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enejota98&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enejota98)](https://github.com/enejota98/github-readme-stats)
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enejota98&layout=compact&langs_count=7&theme=blue-green&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
